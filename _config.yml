@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Vignesh V"
-  avatar : "https://i0.wp.com/vigneshv.me/wp-content/uploads/2021/01/IMG-20180209-WA0012.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am just another programmer, software developer with a decade of experience"
   links:
     - label: "Website"
