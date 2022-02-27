@@ -55,8 +55,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Vignesh V"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Vignesh"
+  avatar : "/assets/images/vignesh-photo.jpg"
   bio    : "I am just another programmer, software developer with a decade of experience"
   links:
     - label: "Twitter"
